@@ -1,10 +1,9 @@
-# FakeNewsClassifier
-A fake news classifier using TF-IDF and Bag of Words to obtain classication of Fake news using Multinomial Algorithm and Passive Aggressive Classifier Algorithm 
+
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-# Order Management Tool
+# FakeNewsClassifier
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -30,17 +29,12 @@ A fake news classifier using TF-IDF and Bag of Words to obtain classication of F
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-A shopping management system which displays current pending orders, details of past customers and inventory products with the help of SQLdatabase. Owners can track the customer orders and monitor their Inventory 
+A fake news classifier using TF-IDF and Bag of Words to obtain classication of Fake news using Multinomial Algorithm and Passive Aggressive Classifier Algorithm  
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 ##
 [![Product Name Screen Shot][product-screenshot2]](https://example.com)
 
-### Built With
-
-The Tech Stack used to make the project is
-* [Bootstrap](https://getbootstrap.com)
-* [Django](https://www.djangoproject.com/)
 
 
 ### Prerequisites
@@ -74,8 +68,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Dylan Dsouza-[https://www.linkedin.com/in/dylandsouza00/]
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: Screenshots/screen1.png
-[product-screenshot2]: Screenshots/screen2.png
+[product-screenshot]: images/screen1.png
+[product-screenshot2]: images/screen2.png
 [license-url]: LICENSE
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
