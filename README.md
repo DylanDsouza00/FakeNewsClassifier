@@ -49,7 +49,7 @@ You should have the specific OpenVino version installed (openvino 2020.4.287).
    ```sh
    git clone https://github.com/DylanDsouza00/FakeNewsClassifier.git
    ```
-2. Run the python notebooks file  
+2. Run the python notebook file  
 3. Observe the results
    
   <!-- LICENSE -->
