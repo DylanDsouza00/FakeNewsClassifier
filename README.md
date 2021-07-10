@@ -30,7 +30,7 @@
 ## About The Project
 A fake news classifier using TF-IDF and Bag of Words to obtain classication of Fake news using Multinomial Algorithm and Passive Aggressive Classifier Algorithmy 
 
-### Built With
+### Results
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 ##
