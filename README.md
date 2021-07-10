@@ -30,13 +30,13 @@
 ## About The Project
 A fake news classifier using TF-IDF and Bag of Words to obtain classication of Fake news using Multinomial Algorithm and Passive Aggressive Classifier Algorithmy 
 
-### Results
+## Results
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 ##
 [![Product Name Screen Shot][product-screenshot2]](https://example.com)
 
-
+## Getting Started
 ### Prerequisites
 
 You should have the specific OpenVino version installed (openvino 2020.4.287).
