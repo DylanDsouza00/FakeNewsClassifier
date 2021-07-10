@@ -1,9 +1,8 @@
-
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-# FakeNewsClassifier
+# Fake News Classifier
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -12,7 +11,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#results">Results</a></li>
       </ul>
     </li>
     <li>
@@ -29,12 +28,13 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-A fake news classifier using TF-IDF and Bag of Words to obtain classication of Fake news using Multinomial Algorithm and Passive Aggressive Classifier Algorithm  
+A fake news classifier using TF-IDF and Bag of Words to obtain classication of Fake news using Multinomial Algorithm and Passive Aggressive Classifier Algorithmy 
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com) [![Product Name Screen Shot][product-screenshot2]](https://example.com)
+### Built With
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 ##
-
-
+[![Product Name Screen Shot][product-screenshot2]](https://example.com)
 
 
 ### Prerequisites
@@ -74,4 +74,3 @@ Dylan Dsouza-[https://www.linkedin.com/in/dylandsouza00/]
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dylandsouza00/
-
