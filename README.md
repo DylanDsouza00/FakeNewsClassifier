@@ -28,7 +28,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-A fake news classifier using TF-IDF and Bag of Words to obtain classication of Fake news using Multinomial Algorithm and Passive Aggressive Classifier Algorithm 
+A fake news classifier using TF-IDF and Bag of Words to obtain classification of Fake news using Multinomial Algorithm and Passive Aggressive Classifier Algorithm 
 
 ## Results
 
