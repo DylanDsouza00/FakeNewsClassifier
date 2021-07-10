@@ -47,16 +47,10 @@ You should have the specific OpenVino version installed (openvino 2020.4.287).
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/DylanDsouza00/Order-Management-Tool.git
+   git clone https://github.com/DylanDsouza00/FakeNewsClassifier.git
    ```
-2. Do necessary Migrations 
-   ```sh
-   python manage.py migrate
-   ```
-3. Run your server
-   ```sh
-   python manage.py runserver
-   ```
+2. Run the python notebooks file  
+3. Observe the results
    
   <!-- LICENSE -->
 ### License
